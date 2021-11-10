@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Artificial Intelligence
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me azfaaryazi@gmail.com
+- 📫 How to reach me azfaaryazid@gmail.com
 
 <!---
 azfaaryazid/azfaaryazid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
